@@ -1,5 +1,5 @@
 - 👋 Olá!!! Eu sou a Larissa Monteiro
-- 👀 Sou desenvolvedora back-end
+- 👀 Desenvolvedora back-end
 
   Sou uma pessoa a procura de tornar a realidade das minorias melhor e acredito que a educação é único caminho para desatar os nós das amarras da mente. Acredito na importância do trabalho do coletivo para tornar as mudanças que desejamos reais. 
   - Decidi fazer a transição de carreira pois vejo a tecnologia como uma fonte de poder onde infelizmente pessoas pretas não tem muito acesso, e quero mudar isso através da inclusão dessas pessoas por meio da educação tecnológica desde a ligar um celular e computado, à linguagens de programação,  tornando o  afrofuturo algo realizável e inclusivo.
