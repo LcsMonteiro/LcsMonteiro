@@ -34,7 +34,7 @@ Sou uma pessoa a procura de tornar a realidade das minorias melhor e acredito qu
     <a href = "mailto:lcsmonteiiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/larissa-silva-monteiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
-    <br>
+  
 
     ![Snake animation](https://github.com/LcsMonteiro/LcsMonteiro/blob/output/github-contribution-grid-snake.svg)
 
