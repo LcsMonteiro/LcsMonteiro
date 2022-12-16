@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Olá! Eu sou a Larissa Monteiro 
 
-Sou uma pessoa a procura de tornar a realidade das minorias melhor e acredito que a educação é único caminho para desatar os nós das amarras da mente. Acredito na importância do trabalho do coletivo para tornar as mudanças que desejamos reais.
+A educação é único caminho para desatar os nós das amarras da mente. Acredito na importância do trabalho do coletivo para tornar as mudanças que desejamos reais.
 <br>
 <div align="center">
   <a href="https://github.com/LcsMonteiro">
