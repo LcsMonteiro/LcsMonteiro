@@ -6,7 +6,13 @@ You can click the Preview link to take a look at your changes.
 
 ## Olá! Eu sou a Larissa Monteiro 
 
-A educação é único caminho para desatar os nós das amarras da mente. Acredito na importância do trabalho do coletivo para tornar as mudanças que desejamos reais.
+Olá,
+Sou uma desenvolvedora back-end com experiência em linguagens como Elixir e Javascript, além de conhecimentos em banco de dados como Mongo e Postgresql. Iniciei minha transição de carreira em 2021, quando participei de programas de ensino de tecnologia para mulheres como Programaria e Reprograma, onde concluí o bootcamp de back-end. Também tive a oportunidade de estagiar por 1 ano, onde pude desenvolver habilidades em ferramentas como Jira e Auth0, além de trabalhar com metodologias ágeis como Scrum e Kanban, e aprimorar minhas habilidades técnicas.
+
+Anteriormente, me formei em Licenciatura em Geografia, onde participei de projetos como o Programa de Iniciação à Docência (PIBID) e Residência Pedagógica, desenvolvendo habilidades como comunicação, trabalho em equipe e resiliência. Atualmente estou cursando Bacharelado em Ciência de Dados pela Univesp.
+Acredito que minhas habilidades técnicas e comportamentais, aliadas ao meu desejo de aprender e crescer, fazem de mim uma candidata ideal para a posição de pessoa desenvolvedora back-end.
+
+**A educação é único caminho para desatar os nós das amarras da mente. Acredito na importância do trabalho do coletivo para tornar as mudanças que desejamos reais.**
 <br>
 <div align="center">
   <a href="https://github.com/LcsMonteiro">
